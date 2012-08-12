@@ -34,7 +34,7 @@ Requirements
 -------------
 To use quickConnect, you will need to be running Mac OSX. It has currently been tested on 10.7.4 and 10.8, but it should work on older versions as well.
 
-You will also need to have PyQt4 installed. You can install this easily using [brew](http://mxcl.github.com/homebrew/) (`brew install pyqt`).
+You will also need to have PyQt4 installed. You can install this easily using [brew](http://mxcl.github.com/homebrew/) with the command `brew install pyqt`.
 
 Compiling a standalone app
 ---------------------------
